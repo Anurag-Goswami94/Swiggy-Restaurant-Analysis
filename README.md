@@ -20,7 +20,8 @@ Objectives: -
 •	Investigate the relationship between restaurant price and rating.
 
 Analysis-1: Identify the top 3 areas with the highest number of restaurants in various cities. 
-	There are a total of 8668 restaurants located in different areas of 9 cities. The top 3 areas with the highest concentration of restaurants in these cities are: - 
+
+There are a total of 8668 restaurants located in different areas of 9 cities. The top 3 areas with the highest concentration of restaurants in these cities are: - 
 •	Ahmedabad: - Navrangpura (131 restaurants), Vastrapur (94 restaurants), Ellisbridge (50 restaurants). 
 
 •	Surat: - Athwa (98 restaurants), Adajan (74 restaurants), Piplod (64 restaurants).
@@ -44,7 +45,9 @@ Analysis-1: Identify the top 3 areas with the highest number of restaurants in v
 •	Pune: - Kothrud (149 restaurants), Shivajinagar (72 restaurants), Koregaon Park (69 restaurants).
 
 Analysis-2:  Determine the most visited restaurants in these top 3 areas.
-	The most visited restaurants in the top 3 areas with the highest concentration of restaurants in these cities are: -  
+
+The most visited restaurants in the top 3 areas with the highest concentration of restaurants in these cities are: -  
+
 •	Ahmedabad: - There are a total of 21 most visited restaurants in the top 3 restaurants concentrated areas of the city. They are- R.K. Egg Eatery, Mcdonald'S, Faasos - Wraps & Rolls, Anjoy Late Night Meals, Burger King, Taco Bell, Hl Frankie, R.K.Centre, Jugaad Nights, Gwalia Sweets & Fast Food, Vittlebox, 1944 The Hocco Kitchen, Kesar Foods, Udupi Shree Darshini Restaurant, Urban Khichdi, Food On Way, Swati Snacks, Mahalaxmi Pav Bhaji, The Healthy Stove, Jassi De Parathe, Nic Natural Ice Creams. 
 
 •	Surat: - There are a total of 9 most visited restaurants in the top 3 restaurants concentrated areas of the city. They are- Jakaas Chinese Food, Live Egg Station, Meals101, Radhe Dhokla, Mahesh Pav Bhaji, Famous Frankie, Trishiv Chinese Corner, La Pino'Z Pizza, Shree Kathiyawadi Khadki.
@@ -85,31 +88,53 @@ Analysis-3: Identify restaurants with the highest ratings (≥4.5) in these area
 •	Pune: - There are a total of 31 restaurants with the highest ratings in the top 3 restaurants concentrated areas of the city. They are- Mirch Masala Resto Bar, Sassy Teaspoon, Hotel Durga, Buddha Paradise, Barometer, Lean Life Bistro, 7Th Heaven Cake Shop, Lassi Wassi, Chafa Cafe And Studio, Yonies Pizza, The Cheesecake Pops, Huber & Holly, Hotel Subhadraa, Dinewise, Nipr Bar, Drunken Monkey, Asia Kitchen By Mainland China, Haka, Rocket Momos, Crazy Momos, Pimlico Kothrud, Origins, Malaka Spice, Papacream, Shree Krishna Juice Bar, Natural Ice Cream, Modern Cakes, Frozen Bottle, Mithas, Gulp, Khichdi Express.
 
 Analysis-4: Analyze popular food types across different cities.
+
 The most popular food types across different cities as per the data are- 
+
 •	Ahmedabad: - Indian.
+
 •	Surat: - Fast Food.
+
 •	Bengaluru: - Desserts.
+
 •	Chennai: - Chinese.
+
 •	Delhi: - Chinese.
+
 •	Hyderabad: - Chinese.
+
 •	Kolkata: - Chinese.
+
 •	Mumbai:  - Chinese.
+
 •	Pune: - Chinese.
 
 Analysis-5:  Calculate the percentage of top-rated restaurants in each city.
-	The percentage of the top-rated restaurants (considering that the average rating of the restaurants is 4.5 or higher) in each city are: -
+
+The percentage of the top-rated restaurants (considering that the average rating of the restaurants is 4.5 or higher) in each city are: -
+
 •	In the city of Ahmedabad only 5.18% of the restaurants are being considered as top-rated restaurants. 
+
 •	In the city of Surat only 6.65% of the restaurants are being considered as top-rated restaurants.
+
 •	In the city of Bengaluru only 9.93% of the restaurants are being considered as top-rated restaurants.
+
 •	In the city of Chennai only 10.87% of the restaurants are being considered as top-rated restaurants.
+
 •	In the city of Delhi only 3.43% of the restaurants are being considered as top-rated restaurants.
+
 •	In the city of Hyderabad only 4.10% of the restaurants are being considered as top-rated restaurants.
+
 •	In the city of Kolkata only 9.43% of the restaurants are being considered as top-rated restaurants.
+
 •	In the city of Mumbai only 8.07% of the restaurants are being considered as top-rated restaurants.
+
 •	In the city of Pune only 7.52% of the restaurants are being considered as top-rated restaurants.
 
 Analysis-7: Price wise distribution of restaurants in different cities.
-	Considering the price-wise distribution, the High Price Range is between Rs 600 and Rs 2500, the Medium Price Range is between Rs 300 and Rs 599, and the Low Price Range is below Rs 300. The distribution of restaurants across different price categories is as follows:
+
+Considering the price-wise distribution, the High Price Range is between Rs 600 and Rs 2500, the Medium Price Range is between Rs 300 and Rs 599, and the Low Price Range is below Rs 300. The distribution of restaurants across different price categories is as follows:
+
 •	Ahmedabad: - Out of the total of 713 restaurants in the city, 64 restaurants fall under the High Price Range, 299 restaurants fall under the Medium Price Range, and 350 restaurants fall under the Low Price Range.
 
 •	Surat: - Out of the total of 511 restaurants in the city, 12 restaurants fall under the High Price Range, 202 restaurants fall under the Medium Price Range, and 297 restaurants fall under the Low Price Range.
@@ -133,9 +158,11 @@ Analysis-7: Price wise distribution of restaurants in different cities.
 •	Pune: - Out of the total of 1089 restaurants in the city, 116 restaurants fall under the High Price Range, 527 restaurants fall under the Medium Price Range, and 446 restaurants fall under the Low Price Range.
 
 Analysis-6: Investigate the relationship between restaurant price and rating.
-	While analysing the relationship between restaurant prices and average ratings, we found out that the restaurant prices does impact the average ratings but the impact is very weak. Meaning that when the price increases, there is a slight tendency for the average rating to increase as well. It is because the other factors are also important to be considered to determine the average rating.  
+
+While analysing the relationship between restaurant prices and average ratings, we found out that the restaurant prices does impact the average ratings but the impact is very weak. Meaning that when the price increases, there is a slight tendency for the average rating to increase as well. It is because the other factors are also important to be considered to determine the average rating.  
 
 Recommendations: - 
+
 1>	As the top 3 areas of all the 9 cities of India are famous for combination of factors like central location, variety in food types, and affordability. Swiggy could deploy more Delivery Agents in these areas of the cities so that they are able handle a greater number of orders coming from these areas. After doing so, the waiting time of the customers in getting the delivery will decrease and the customer will prefer to make most of the orders from these areas through Swiggy which will give Swiggy a good business.
 
 2>	The restaurants owners of the low rated restaurants should focus on increasing the quality of their restaurants which will improve customer experience leading to good rating. It is because as per our analysis we can see that the impact of Price is very less over the rating, so concentrating on increasing the quality will help to get good rating.
