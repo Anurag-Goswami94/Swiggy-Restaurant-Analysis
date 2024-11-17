@@ -2,13 +2,21 @@
 Swiggy Restaurant Analysis report: -
 
 This report represents the key insights of various restaurants across multiple cities of India based on Swiggy’s listed restaurants and user reviews. In this report, we have identified the areas with the highest concentration of restaurants, famous food types and top-rated restaurants.  We have also examined the price trends and also explored the relationships between the restaurant’s average ratings and prices. 
+
 Objectives: -
+
 •	Identify the top 3 areas with the highest number of restaurants in various cities. 
+
 •	Determine the most visited restaurants in these top 3 areas.
+
 •	Identify restaurants with the highest ratings (≥4.5) in these areas.
+
 •	Analyze popular food types across different cities.
+
 •	Calculate the percentage of top-rated restaurants in each city.
+
 •	Price wise distribution of restaurants in different cities.
+
 •	Investigate the relationship between restaurant price and rating.
 
 Analysis-1: Identify the top 3 areas with the highest number of restaurants in various cities. 
