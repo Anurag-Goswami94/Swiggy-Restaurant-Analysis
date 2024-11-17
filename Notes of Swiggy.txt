@@ -1,0 +1,29 @@
+
+Q> Main goal is to find out if the PRICE has any relation with the RATING of the resturant
+
+---------
+
+
+## DECODING Columns:-
+	> Area-- Here, it tells in which area the resturant is located.
+	> City-- Here, it tells in which city the resturants is located.
+	> Resturant-- Name of the resturant
+	> Price-- Minimum price ONE PERSON can spend in a meanl in the particular resturant.
+	> Avg Rating-- The average rating of the resturant. 
+	> Total Rating-- Tells us how many people rated the resturant and we could also take it as how many people visited the resturants. 
+	> Food Type -- What style of food is served in the resturant
+	> Address -- Address of the resturant
+
+
+
+
+
+1> Top 3 areas with most resturant in different cities, the most visted resturants of the top 3 areas, which are the resturants having the top rating from these 
+   areas meaning resturants having average rating GREATER than or equal to 4.5	
+
+3> What are the most popular foodtype from different cities?
+4> Percentage of top rated resturants in different cities? 
+5> Distribute the resturants pricewise in different cities?
+6> Find out the correlation and covariance relationship between Price and Rating? 
+
+
